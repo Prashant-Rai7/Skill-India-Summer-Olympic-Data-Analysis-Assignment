@@ -1,27 +1,27 @@
 # Skill-India-Summer-Olympic-Data-Analysis-Assignment
 
-About this Internship
-This is my Assignment Project of Skill India Internship Programme organized by Elite Techno Groups. Ashish Jangara is my Instructor for this Project and Internship, Along with this Project we will create 3 more Projects for this Internship, Olympic Data Analysis, Car MAnufacturing Company Data Analysis and a Mega Project of Breast Cancer Detection.
+### About this Internship
+This is my Assignment Project of Skill India Internship Programme organized by Elite Techno Groups. Ashish Jangara is my Instructor for this Project and Internship, Along with this Project we had created 2 more Projects for this Internship, CAR Data Analysis and Inventory Management System and a Final Project of Breast Cancer Detection also we are going to make.
 
-Project Details
-Inventory Management System is a Stock Adding, Purchasing, Billing, Transactions Details, etc managing software which is used by the Retail Shops. Here I have done this all features in Python Language and Added the Data Files named 'record.json' and 'sales.json' for references.
+### Project Details
+Here I have answered few questions based on 'summer.csv' dataset. It is containing more than 31000 data of past olympic records from 1896 to 2012 and here I have analysed the each and every question with the help of Graphs, visuals, etc.
 
-Project Features
-1.) It contains Adding the New Product in the Inventory features.
-2.) We can Also Purchase at the same time from the Inventory.
-3.) After Purchasing the Product I have added the Feature of Billing which contains all the Details of your Purchase like Product ID, Quantity, Price, GST, Net Amount, Date of Transaction, Shop Name, Return Details, etc are mentioned in it.
-4.) After Succesful Buying from the Customer, I have added the feature of Updating Inventory.
-5.) A sales.json file is also dumped there to get the Trasaction details after the Purhase.
-Who I am ?
-My Name is Prashant Rai and my Speciality is working on DASHBOARDS, currently I am in 3rd Year of CSE Branch from BHGCET College, RAJKOT. I am a Data Science Geek and currently Summer Intern at ETG for Python (AI/ML).
+### Project Explanation
+#### 1.) Firstly I have imported the important libraries like numpy, pandas, seaborn, matplotlib.pyplot
+#### 2.) Then I uploaded the dataset 'summer.csv' and checked its total rows and columns using df.shape and for reading and displaying data I used df.head() function.
+#### 3.) After Reading the dataset I performed some data Preprocessing techniques to remove the Null values in order to avoid the problem in analysing later on.
+#### 4.) I used isnull(), isnull().sum() and dropna() function to preprocess the data.
+#### 5.) After Data Preprocessing Step, I used several functions to fetch the required Problem statement solution and then I plotted graphs like Line graph, Bar graph, etc.
+### Who I am ?
+My Name is Prashant Rai and I am a Data Science Aspirant and Geek, currently I am in 3rd Year of CSE Branch from BHGCET College, RAJKOT. Right now I am a Summer Intern at ETG for Python (AI/ML).
 
-What Projects I have Done ?
-1.) SALES Performance Excel Dashboard
-2.) Housing Project- Data Analytics
-3.) Titanic Survivor - Data Analytics
-4.) Supermart Data Visualization in Tableau
-Social Media Links
-Linkedin : www.linkedin.com/in/prashant-rai-23268b1b9
-Twitter : https://twitter.com/Prashant_rai7
-Facebook : https://www.facebook.com/profile.php?id=100009678483639
-Instagram : https://www.instagram.com/prashant_rai7/
+### What Projects I have Done ?
+#### 1.) SALES Performance Excel Dashboard
+#### 2.) Housing Project- Data Analytics
+#### 3.) Titanic Survivor - Data Analytics
+#### 4.) Supermart Data Visualization in Tableau
+### Social Media Links
+#### Linkedin : www.linkedin.com/in/prashant-rai-23268b1b9
+#### Twitter : https://twitter.com/Prashant_rai7
+#### Facebook : https://www.facebook.com/profile.php?id=100009678483639
+#### Instagram : https://www.instagram.com/prashant_rai7/
